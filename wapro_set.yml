@@ -1,0 +1,8 @@
+in_dir: art_in
+out_dir: art_out
+waifu_dir:
+model: raw
+#noise ol scale
+mode: scale
+#level of noise 
+level: 
